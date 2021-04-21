@@ -1,0 +1,17 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "Origami 1",
+      "author": "Mel"
+    },
+    {
+      "id": 2,
+      "title": "Origami 2",
+      "author": "Mel 2"
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
