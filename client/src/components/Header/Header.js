@@ -6,17 +6,17 @@ function Header () {
     <nav className={style.navigation}>
       <ul>
         <li className={styles.listItem}><img src="/white-origami-bird.png" alt="" /></li>
-        <NavigationItem>Goingto 1</NavigationItem>
-        <NavigationItem>Goingto 2</NavigationItem>
-        <NavigationItem>Goingto 3</NavigationItem>
-        <NavigationItem>Goingto 4</NavigationItem>
-        <NavigationItem>Goingto 5</NavigationItem>
-        <NavigationItem>Goingto 6</NavigationItem>
-        <NavigationItem>Goingto 7</NavigationItem>
-        <NavigationItem>Goingto 8</NavigationItem>
-        <NavigationItem>Goingto 9</NavigationItem>
-        <NavigationItem>Goingto 10</NavigationItem>
-        <NavigationItem>Goingto 11</NavigationItem>
+        <NavigationItem>Go to 1</NavigationItem>
+        <NavigationItem>Go to 2</NavigationItem>
+        <NavigationItem>Go to 3</NavigationItem>
+        <NavigationItem>Go to 4</NavigationItem>
+        <NavigationItem>Go to 5</NavigationItem>
+        <NavigationItem>Go to 6</NavigationItem>
+        <NavigationItem>Go to 7</NavigationItem>
+        <NavigationItem>Go to 8</NavigationItem>
+        <NavigationItem>Go to 9</NavigationItem>
+        <NavigationItem>Go to 10</NavigationItem>
+        <NavigationItem>Go to 11</NavigationItem>
 
 
       </ul>

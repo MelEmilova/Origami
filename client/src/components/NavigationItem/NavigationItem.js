@@ -3,7 +3,7 @@ import style from './NavigationItem.module.css';
 function NavigationItem(props) {
   return (
     <li className={style.listItem}>
-      <a className={style.navListItem} href="/">Going to {props.children}</a>
+      <a className={style.navListItem} href="/">{props.children}</a>
     </li>
 
   );
