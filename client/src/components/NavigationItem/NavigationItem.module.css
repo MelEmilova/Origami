@@ -1,5 +1,4 @@
- .listItem,
-footer .listItem {
+ .listItem {
   display: inline-block;
   height: auto;
   margin-right: 2%;
